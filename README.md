@@ -29,6 +29,6 @@ Un mini projet de quiz interactif utilisant **FastAPI** pour le backend et **Str
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/ton-utilisateur/quiz-game.git
+   git clone https://github.com/MaizaAymen/Quiz-Game.git
    cd quiz-game
 
